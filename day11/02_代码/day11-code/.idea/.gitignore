@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 数据源本地存储已忽略文件
+/../../../../../../../../../:\123445\HeiMa 2018 JAVA基础班IDEA\Java基础课程资料\Java基础第一部分资料\day11\02_代码\day11-code\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
